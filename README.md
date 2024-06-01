@@ -1,4 +1,4 @@
-# simple-tracing-demo-jaeger
+# simple-fastapi
 
 To start demo simply
     docker compose up
